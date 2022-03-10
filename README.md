@@ -12,6 +12,6 @@ Once you have your token, clone this repo and rename the `.env.example` file to 
 ## How to use
 Once you have done the above, you should see 'Bot is running!' in your console. Then you can type !help in any text channel and the bot will explain its own usage.
 
-![Example Usage](https://imgur.com/a/okrGoEg)
+![Example Usage](https://i.imgur.com/LgY5acw.png)
 
-![Example of History](https://imgur.com/a/YNCQYhL)
+![Example of History](https://i.imgur.com/o0seVds.png)
